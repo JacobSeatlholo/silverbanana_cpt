@@ -2,7 +2,7 @@
   <Layout>
     
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/silverbanana" width="135" />
+    <g-image alt="silverbanana" src="~/silverbanana" width="135" />
     
     <h1>Hello, world!</h1>
    
