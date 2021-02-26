@@ -4,10 +4,10 @@
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <g-image alt=<a href='https://www.linkpicture.com/view.php?img=LPic6037bc306dff11327148646'><img src='https://www.linkpicture.com/q/silverbanana.png' type='image'></a> src="~/<a href='https://www.linkpicture.com/view.php?img=LPic6037bc306dff11327148646'><img src='https://www.linkpicture.com/q/silverbanana.png' type='image'></a>" width="135" />
     
-    <h1>Hello, world!</h1>
+    <h1>Silverbanana CPT!</h1>
    
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
+     This is a test page
     </p>
 
     <p class="home-links">
