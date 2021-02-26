@@ -2,7 +2,8 @@
   <Layout>
     
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt=<a href='https://www.linkpicture.com/view.php?img=LPic6037bc306dff11327148646'>
+    <g-image alt=<a href='https://www.linkpicture.com/view.php?img=LPic6037bc306dff11327148646'>src="~/<a 
+    href='https://www.linkpicture.com/view.php?img=LPic6037bc306dff11327148646'><img 
     
     <h1>Silverbanana CPT!</h1>
    
